@@ -1,7 +1,7 @@
 # Titanic-Project
 In this project number of people who survived the titanic accident are predicted
 # Overview
-  Understanding the shape of the data
+  Understanding the shape of the data<br>
   Data Cleaning
   Data Exploration
   Normalization
