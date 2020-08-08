@@ -15,7 +15,7 @@ In this project number of people who survived the titanic accident are predicted
   Matplotlib.pyplot<br>
   Seaborn<br>
   ### Accuracy
-|Decision Tree|96%|
+|Decision Tree|80%|
 |--- |--- |
 
 #### The data is imported from Kaggle.
