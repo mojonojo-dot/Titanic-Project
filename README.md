@@ -21,6 +21,6 @@ In this project number of people who survived the titanic accident are predicted
 |XGB|91%|
 |--- |--- |
 |SVM|87%|
-|--- |--- |
+
 
 #### The data is imported from Kaggle.
