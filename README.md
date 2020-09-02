@@ -19,7 +19,7 @@ In this project number of people who survived the titanic accident are predicted
 |Decision Tree|90%|
 |--- |--- |
 |XGB|91%|
-|--- |--- |
+
 |SVM|87%|
 
 
