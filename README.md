@@ -17,7 +17,7 @@ In this project number of people who survived the titanic accident are predicted
   ### Accuracy
 |Decision Tree|77.4%|
 |--- |--- |
-|XGB|81.7%|
+|XGB|81.14%|
 |KNN|81.82%|
 
 
