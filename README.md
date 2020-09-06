@@ -2,7 +2,6 @@
 In this project number of people who survived the titanic accident are predicted
 # Overview
   Understanding the shape of the data<br>
-  Data Cleaning<br>
   Data Exploration<br>
   Normalization<br>
   Data Preprocessing for Model<br>
@@ -16,10 +15,10 @@ In this project number of people who survived the titanic accident are predicted
   Seaborn<br>
   
   ### Accuracy
-|Decision Tree|90%|
+|Decision Tree|77.4%|
 |--- |--- |
-|XGB|91%|
-|SVM|87%|
+|XGB|81.7%|
+|KNN|81.82%|
 
 
 #### The data is imported from Kaggle.
